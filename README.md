@@ -5,7 +5,6 @@
 <p align="center">그림을 색칠하여 나만의 일기를 완성해요.</p>
 <p align="center">하루하루의 이야기를 재미있게 기록해보아요!</p>
 
-
 ## 배포 주소<br>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
 백앤드 주소 : https://github.com/hongchaparklee/DrawMyDay_back<br/>
