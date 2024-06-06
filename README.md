@@ -87,3 +87,38 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
     </td>
   </tr>
 </table>
+
+### Coloring Page
++  DrawDayPage에서 작성한 일기 내용을 바탕으로 그림을 색칠하는 페이지입니다.
++  다양한 펜 도구와 색상 선택 기능을 제공합니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>Coloring Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/cbad98bd-90d7-4755-9a8e-9e2659b3747b" width="560" height="320" />
+    </td>
+  </tr>
+</table>
+
+### Complete Page
++  그림일기 작성이 완료되면 최종 결과물을 보여주는 페이지입니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>Complete Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/ad9b8e07-d4b2-4b80-b67e-688280e89368" width="560" height="320" />
+    </td>
+  </tr>
+</table>
+
+### Memory Page
++  과거에 작성했던 그림일기들을 보관하고 탐색할 수 있는 페이지입니다.
++  Prev/Next 버튼으로 이전/다음 일기를 볼 수 있습니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>Memory Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/194c2ebc-3516-405e-bab2-2a2d8b303add" width="560" height="320" />
+    </td>
+  </tr>
+</table>
