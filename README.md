@@ -1,6 +1,6 @@
 # DrawMyDay<br/>
 
-<img src="https://github.com/hongchaparklee/Common/assets/132898240/23db665f-3b91-4565-851a-7a3773543aa8" width="200" height="200" />
+<img src="https://github.com/hongchaparklee/Common/assets/132898240/23db665f-3b91-4565-851a-7a3773543aa8" width="400" height="400" />
 
 ## 배포 주소<br>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
