@@ -28,7 +28,7 @@
       <h2>차경원</h2>
       <img src="https://github.com/hongchaparklee/Common/assets/132898240/a7752ac5-49eb-477a-8ab0-7b169a2db40d" width="200" height="200" />
       <p>차경원</p>
-      <p>차경원@example.com</p>
+      <p>dbfldk20j@gmail.com</p>
       <p>중앙대학교 소프트웨어학과 4학년</p>
     </td>
     <td align="center">
