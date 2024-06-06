@@ -16,6 +16,7 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
   <tr>
     <td align="center">
       <h2>홍우석</h2>
+      <h3>https://github.com/hongwoosa<h3>
       <img src="https://github.com/hongchaparklee/Common/assets/132898240/bd609157-4aab-455c-be71-4dac3b9030dd" width="200" height="200" />
       <p>홍우석</p>
       <p>hongwoosa@gmail.com</p>
@@ -23,6 +24,7 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
     </td>
     <td align="center">
       <h2>차경원</h2>
+      <h3>https://github.com/Yuria20<h3>
       <img src="https://github.com/hongchaparklee/Common/assets/132898240/a7752ac5-49eb-477a-8ab0-7b169a2db40d" width="200" height="200" />
       <p>차경원</p>
       <p>차경원@example.com</p>
@@ -30,6 +32,7 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
     </td>
     <td align="center">
       <h2>안진혁</h2>
+      <h3>https://github.com/EnTaroJin<h3>
       <img src="https://github.com/hongchaparklee/Common/assets/132898240/de0c6753-ade0-45bc-a6c0-c39bcb8a2592" width="200" height="200" />
       <p>@EnTaro_Jin</p>
       <p>jinhyuck6@gmail.com</p>
