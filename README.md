@@ -1,6 +1,7 @@
 # DrawMyDay<br/>
 
-대충 여기에 로고
+![KakaoTalk_20240530_195419810](https://github.com/hongchaparklee/Common/assets/132898240/23db665f-3b91-4565-851a-7a3773543aa8)
+
 
 ## 배포 주소<br>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
