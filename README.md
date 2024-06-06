@@ -18,7 +18,7 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
       <h2>홍우석</h2>
       <img src="https://github.com/hongchaparklee/Common/assets/132898240/bd609157-4aab-455c-be71-4dac3b9030dd" width="200" height="200" />
       <p>홍우석</p>
-      <p>홍우석@example.com</p>
+      <p>hongwoosa@gmail.com</p>
       <p>중앙대학교 소프트웨어학과 4학년</p>
     </td>
     <td align="center">
