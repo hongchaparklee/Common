@@ -53,3 +53,37 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
   </tr>
 </table>
 
+### User Page
++  사용자의 개인 정보를 입력하고 저장하는 페이지입니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>User Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/ce0c2cee-6294-4705-be6c-671d9d868d2c" width="560" height="320" />
+    </td>
+  </tr>
+</table>
+
+### DrawDay Page
++  사용자가 일기를 작성하고 그에 맞는 그림을 그리는 페이지입니다.
++  Prev/Next 버튼을 통해 작성 내용을 편집할 수 있습니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>DrawDay Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/132898240/8babf5c2-c14a-4323-a426-cb081e267694" width="560" height="320" />
+    </td>
+  </tr>
+</table>
+
+### Loading Page
++  앱 실행 시 일시적으로 보여지는 로딩 화면입니다. 
++  로딩 중 움직이는 그래픽과 랜덤 메시지를 통해 사용자에게 앱 실행 중임을 알립니다.
+<table>
+  <tr>
+    <td align="center">
+      <h2>Loading Page</h2>
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/cf545ae4-c314-4616-94f2-dbbde29d9d48" width="560" height="320" />
+    </td>
+  </tr>
+</table>
