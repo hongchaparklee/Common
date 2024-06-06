@@ -6,8 +6,8 @@
 <p align="center">하루하루의 이야기를 재미있게 기록해보아요!</p>
 
 ## 개요
-  프로젝트 이름 : DrawMyDay
-  프로젝트 지속기간 : 2024.01~2024.06
++  프로젝트 이름 : DrawMyDay
++  프로젝트 지속기간 : 2024.01~2024.06
 
 ## 배포 주소<br>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
