@@ -2,7 +2,7 @@
 
 대충 여기에 로고
 
-배포 주소 <br/>
+##배포 주소 <br/>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
 백앤드 주소 : https://github.com/hongchaparklee/DrawMyDay_back<br/>
 AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
@@ -33,8 +33,6 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
   </tr>
 </table>
 
+1. 개발 환경<br/>
 
-<br/>
-계왕님<br/>
-프로젝트 소개<br/>
 
