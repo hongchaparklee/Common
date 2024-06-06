@@ -1,7 +1,8 @@
 <h1 style="text-align: center;">[2024] DrawMyDay</h1>
-
-
-<img src="https://github.com/hongchaparklee/Common/assets/132898240/23db665f-3b91-4565-851a-7a3773543aa8" width="400" height="400" />
+Draw My Day로 오늘의 하루를 그려보아요!<br>
+일기를 쓰면 일기가 그림으로 변해요.<br>
+그림을 색칠하여 나만의 일기를 완성해요.<br>
+하루하루의 이야기를 재미있게 기록해보아요!<br>
 
 ## 배포 주소<br>
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
