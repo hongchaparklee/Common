@@ -71,7 +71,7 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
   <tr>
     <td align="center">
       <h2>DrawDay Page</h2>
-    <img src="https://github.com/hongchaparklee/Common/assets/132898240/132898240/8babf5c2-c14a-4323-a426-cb081e267694" width="560" height="320" />
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/8babf5c2-c14a-4323-a426-cb081e267694" width="560" height="320" />
     </td>
   </tr>
 </table>
