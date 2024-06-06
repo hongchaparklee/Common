@@ -9,11 +9,12 @@
 +  프로젝트 이름 : DrawMyDay
 +  프로젝트 지속기간 : 2024.01~2024.06
 
-## 배포 주소<br>
+## 배포 주소
 프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
 백앤드 주소 : https://github.com/hongchaparklee/DrawMyDay_back<br/>
 AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
 
+## 멤버
 <table>
   <tr>
     <td align="center">
