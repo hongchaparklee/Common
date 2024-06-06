@@ -41,6 +41,14 @@ AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
   </tr>
 </table>
 
-1. 개발 환경<br/>
-
+## 페이지별 기능
+### Main Page
++ 일기 쓰기, 사용자 정보 입력, 저장된 일기 보기 등 앱의 핵심 기능들이 모여있는 메인 페이지입니다.
+<table>
+  <tr>
+    <td align="center">
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/1819fb88-af18-4dc5-ae5d-eafc3fa70802" width="200" height="200" />
+    </td>
+  </tr>
+</table>
 
