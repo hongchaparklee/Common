@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <h2>안진혁</h2>
-      <img src="https://github.com/hongchaparklee/Common/assets/132898240/de0c6753-ade0-45bc-a6c0-c39bcb8a2592" width="200" height="200" />
+      <img src="https://github.com/hongchaparklee/Common/assets/132898240/99286107-3d4d-4d08-8403-0680b66b44e3" width="200" height="200" />
       <p>@EnTaro_Jin</p>
       <p>jinhyuck6@gmail.com</p>
       <p>중앙대학교 소프트웨어학과 4학년</p>
