@@ -1,8 +1,8 @@
 <h1 align="center">[2024] DrawMyDay</h1>
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <div style="flex: 1;">
-    <img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="200" height="120">
+<div style="display: flex; align-items: center; justify-content: center; text-align: center; flex-direction: column;">
+  <div style="flex: 1; margin-bottom: 10px;">
+    <img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="300" height="180">
   </div>
   <div style="flex: 1;">
     <p>Draw My Day로 오늘의 하루를 그려보아요!</p>
@@ -11,6 +11,7 @@
     <p>하루하루의 이야기를 재미있게 기록해보아요!</p>
   </div>
 </div>
+
 
 
 ## 개요
