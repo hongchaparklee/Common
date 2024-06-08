@@ -1,7 +1,7 @@
 <h1 align="center">[2024] DrawMyDay</h1>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="400" height="240">
+<div style="justify-content: center;">
+  <img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="500" height="340">
 
 <p align="center">Draw My Day로 오늘의 하루를 그려보아요!</p> 
 <p align="center">일기를 쓰면 일기가 그림으로 변해요.</p> 
