@@ -6,7 +6,7 @@
 <p align="center">Draw My Day로 오늘의 하루를 그려보아요!</p> 
 <p align="center">일기를 쓰면 일기가 그림으로 변해요.</p> 
 <p align="center">그림을 색칠하여 나만의 일기를 완성해요.</p> 
-<p align="center">하루하루의 이야기를 재미있게 기록해보아요!</p>
+<p align="center">하루하루의 이야기를 재미있게 기록해보아요!</p></br>
 
 
 ## 개요
