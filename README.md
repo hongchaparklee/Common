@@ -16,7 +16,7 @@
 +  프론트 주소 : https://github.com/hongchaparklee/DrawMyDay_front<br/>
 +  백앤드 주소 : https://github.com/hongchaparklee/DrawMyDay_back<br/>
 +  AI 주소 : https://github.com/hongchaparklee/DrawMyDay_AI<br/>
-
++ 배포 주소 : http://drawday.s3-website.ap-northeast-2.amazonaws.com<br/>
 ## 멤버
 <table>
   <tr>
