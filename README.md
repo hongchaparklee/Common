@@ -19,14 +19,14 @@
   <tr>
     <td align="center">
       <h2>홍우석</h2>
-      <img src="https://github.com/hongchaparklee/Common/assets/132898240/bd609157-4aab-455c-be71-4dac3b9030dd" width="200" height="200" />
+      <img src="https://github.com/hongchaparklee/Common/assets/132898240/71b41ff3-bd13-4256-9687-3b217c3889fc" width="200" height="200" />
       <p>홍우석</p>
       <p>hongwoosa@gmail.com</p>
       <p>중앙대학교 소프트웨어학과 4학년</p>
     </td>
     <td align="center">
       <h2>차경원</h2>
-      <img src="https://github.com/hongchaparklee/Common/assets/132898240/a7752ac5-49eb-477a-8ab0-7b169a2db40d" width="200" height="200" />
+      <img src="https://github.com/hongchaparklee/Common/assets/132898240/5e2ece7f-e16c-4144-b135-c05d3349daed" width="200" height="200" />
       <p>차경원</p>
       <p>dbfldk20j@gmail.com</p>
       <p>중앙대학교 소프트웨어학과 4학년</p>
