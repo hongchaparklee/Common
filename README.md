@@ -3,10 +3,10 @@
 <img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="350" height="210" align ="left" style="margin-left: 40;">
 </br>
 </br>
-<p align="center" style="margin-left: 10;">Draw My Day로 오늘의 하루를 그려보아요!</p> 
-<p align="center" style="margin-left: 10;">일기를 쓰면 일기가 그림으로 변해요.</p> 
-<p align="center" style="margin-left: 10;">그림을 색칠하여 나만의 일기를 완성해요.</p> 
-<p align="center" style="margin-left: 10;">하루하루의 이야기를 재미있게 기록해보아요!</p></br>
+<p align="center" style="margin-left: 1px;">Draw My Day로 오늘의 하루를 그려보아요!</p> 
+<p align="center" style="margin-left: 1px;">일기를 쓰면 일기가 그림으로 변해요.</p> 
+<p align="center" style="margin-left: 1px;">그림을 색칠하여 나만의 일기를 완성해요.</p> 
+<p align="center" style="margin-left: 1px;">하루하루의 이야기를 재미있게 기록해보아요!</p></br>
 
 ## 개요
 +  프로젝트 이름 : DrawMyDay
