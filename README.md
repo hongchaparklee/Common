@@ -1,7 +1,6 @@
 <h1 align="center">[2024] DrawMyDay</h1>
 
-
-<img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="300" height="180" align="left">
+<img src="https://github.com/hongchaparklee/Common/assets/132898240/df12c019-3ee4-4e8e-8429-85a130da7b40" alt="title" width="350" height="210" style="margin-left: 20px;">
 </br>
 </br>
 <p align="left">Draw My Day로 오늘의 하루를 그려보아요!</p> 
